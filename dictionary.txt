@@ -1,0 +1,23 @@
+raesfeld	raesfeld
+flughafen	airport
+berlin		Berlin
+bratwurst	bratwurst
+hauptstrasses	Main road
+brot		bread
+klimaanlage	air conditioning
+rammstein	rammstein
+porsche		porsche
+bmw		bmw
+biergarten	beer garden
+ratskeller	council cellar
+dirndel		dirndel (october fest dress)
+lederhose	leather pants
+wettbewerbsfaehig competitive
+Mehlhase	Flour bunny
+Gebaeck		Pastries
+Baeckerei	bakery
+hund		dog
+doner		no translation
+apfelkuchen	Apple Cake
+schloss		lock
+eltz		eltz
