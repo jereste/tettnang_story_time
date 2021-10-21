@@ -4,4 +4,10 @@ On the way I grabbed some Brot.
 I decided to eat some bratwurst with my Brot.
 I was still hungry so I purchased some apfelkuchen but accidentally dropped it...
 After I hopped in my Porsche because I don't like BMWs.
+<<<<<<< HEAD
 To grab some Gebaeck from the Baeckerei.
+=======
+To grab some Gebaeck from the Baeckerei.
+I shared my Gabaeck with my hund named George.
+Got my lederhose on, ready for anything.
+>>>>>>> 360cc0192662440c35d35746a3a016af400b8b7e
